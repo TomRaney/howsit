@@ -15,8 +15,10 @@ Requires ncurses.  To install:
 sudo apt-get install libncurses-dev
 ```
 
+```
 make
-
+```
+```
 ./howsit --help
-
+```
 
